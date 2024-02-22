@@ -6,22 +6,17 @@
 
 
 ini sedikit tampilan dari saya
-## Authors
+## GitHub
 
 - [@Azzamyyusuf](https://github.com/Azzamyyusuf)
 
 
-## Screenshots
+## Tugas
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+Tugas Dari Bapak Kevin : 
 
-
-## Used By
-
-This project is used by the following companies:
-
-- Company 1
-- Company 2
+- [Link Tree]([https://github.com/Azzamyyusuf](https://linktr.ee/zmnda))
+- [Link GitHub.io]([https://azzamyyusuf.github.io/a))
 
 
 ## Running Tests
